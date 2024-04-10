@@ -15,4 +15,8 @@ Key features of the House Sales Dashboard include:
 
 This project not only showcases my proficiency in data visualization but also highlights the power of Tableau in transforming raw data into actionable insights. Whether you're a real estate agent, investor, or industry professional, this dashboard empowers you to make data-driven decisions and stay ahead in the competitive market.
 
+https://public.tableau.com/app/profile/sayani.ghatak/vizzes
+
+
+
 ![KingCountyHouseSales](https://github.com/sgsayani/House_Sales_Dashboard/assets/71175346/4d257e6c-24f1-4a53-bce1-bb5ad0f86027)
